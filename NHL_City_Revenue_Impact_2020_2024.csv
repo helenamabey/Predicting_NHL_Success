@@ -1,0 +1,161 @@
+Year,City,Team,Base City Revenue ($B),Playoff Games,Stanley Cup Win,Total City Revenue ($B)
+2020,Anaheim,Anaheim Ducks,5.64,4,No,5.84
+2020,Tempe,Arizona Coyotes,16.29,6,No,16.59
+2020,Boston,Boston Bruins,10.0,0,No,10.0
+2020,Buffalo,Buffalo Sabres,24.57,0,No,24.57
+2020,Calgary,Calgary Flames,28.99,0,No,28.99
+2020,Raleigh,Carolina Hurricanes,18.22,4,No,18.42
+2020,Chicago,Chicago Blackhawks,14.86,8,No,15.26
+2020,Denver,Colorado Avalanche,26.14,0,No,26.14
+2020,Columbus,Columbus Blue Jackets,28.28,0,No,28.28
+2020,Dallas,Dallas Stars,8.19,27,No,9.54
+2020,Detroit,Detroit Red Wings,18.68,4,No,18.88
+2020,Edmonton,Edmonton Oilers,5.9,10,No,6.4
+2020,Sunrise,Florida Panthers,12.92,10,No,13.42
+2020,Los Angeles,Los Angeles Kings,6.16,4,No,6.36
+2020,St. Paul,Minnesota Wild,28.26,10,No,28.76
+2020,Montreal,Montreal Canadiens,29.99,4,No,30.19
+2020,Nashville,Nashville Predators,6.74,0,No,6.74
+2020,Newark,New Jersey Devils,13.05,6,No,13.35
+2020,Elmont,New York Islanders,17.51,10,No,18.01
+2020,New York,New York Rangers,16.35,0,No,16.35
+2020,Ottawa,Ottawa Senators,25.95,0,No,25.95
+2020,Philadelphia,Philadelphia Flyers,13.93,0,No,13.93
+2020,Pittsburgh,Pittsburgh Penguins,26.01,10,No,26.51
+2020,San Jose,San Jose Sharks,6.88,8,No,7.28
+2020,Seattle,Seattle Kraken,20.39,0,No,20.39
+2020,St. Louis,St. Louis Blues,29.47,10,No,29.97
+2020,Tampa,Tampa Bay Lightning,14.68,25,Yes,17.43
+2020,Toronto,Toronto Maple Leafs,19.11,10,No,19.61
+2020,Vancouver,Vancouver Canucks,9.4,4,No,9.6
+2020,Las Vegas,Vegas Golden Knights,25.08,8,No,25.48
+2020,Washington,Washington Capitals,15.79,8,No,16.19
+2020,Winnipeg,Winnipeg Jets,21.22,4,No,21.42
+2021,Anaheim,Anaheim Ducks,6.42,6,No,6.72
+2021,Tempe,Arizona Coyotes,25.88,6,No,26.18
+2021,Boston,Boston Bruins,11.38,4,No,11.58
+2021,Buffalo,Buffalo Sabres,20.09,10,No,20.59
+2021,Calgary,Calgary Flames,5.69,10,No,6.19
+2021,Raleigh,Carolina Hurricanes,5.48,6,No,5.78
+2021,Chicago,Chicago Blackhawks,16.49,10,No,16.99
+2021,Denver,Colorado Avalanche,7.56,6,No,7.86
+2021,Columbus,Columbus Blue Jackets,13.49,6,No,13.79
+2021,Dallas,Dallas Stars,9.16,4,No,9.36
+2021,Detroit,Detroit Red Wings,23.36,0,No,23.36
+2021,Edmonton,Edmonton Oilers,8.51,0,No,8.51
+2021,Sunrise,Florida Panthers,12.3,4,No,12.5
+2021,Los Angeles,Los Angeles Kings,16.4,8,No,16.8
+2021,St. Paul,Minnesota Wild,18.5,4,No,18.7
+2021,Montreal,Montreal Canadiens,6.64,22,No,7.74
+2021,Nashville,Nashville Predators,19.41,10,No,19.91
+2021,Newark,New Jersey Devils,21.29,10,No,21.79
+2021,Elmont,New York Islanders,28.36,0,No,28.36
+2021,New York,New York Rangers,6.28,10,No,6.78
+2021,Ottawa,Ottawa Senators,16.39,6,No,16.69
+2021,Philadelphia,Philadelphia Flyers,29.69,10,No,30.19
+2021,Pittsburgh,Pittsburgh Penguins,10.61,4,No,10.81
+2021,San Jose,San Jose Sharks,16.07,0,No,16.07
+2021,Seattle,Seattle Kraken,26.83,8,No,27.23
+2021,St. Louis,St. Louis Blues,11.17,10,No,11.67
+2021,Tampa,Tampa Bay Lightning,27.44,23,Yes,30.09
+2021,Toronto,Toronto Maple Leafs,13.52,8,No,13.92
+2021,Vancouver,Vancouver Canucks,10.25,10,No,10.75
+2021,Las Vegas,Vegas Golden Knights,20.76,10,No,21.26
+2021,Washington,Washington Capitals,28.91,6,No,29.21
+2021,Winnipeg,Winnipeg Jets,9.4,8,No,9.8
+2022,Anaheim,Anaheim Ducks,26.49,4,No,26.69
+2022,Tempe,Arizona Coyotes,13.78,8,No,14.18
+2022,Boston,Boston Bruins,23.27,0,No,23.27
+2022,Buffalo,Buffalo Sabres,8.29,6,No,8.59
+2022,Calgary,Calgary Flames,5.23,10,No,5.73
+2022,Raleigh,Carolina Hurricanes,23.79,0,No,23.79
+2022,Chicago,Chicago Blackhawks,17.62,4,No,17.82
+2022,Denver,Colorado Avalanche,7.39,20,Yes,9.89
+2022,Columbus,Columbus Blue Jackets,16.74,10,No,17.24
+2022,Dallas,Dallas Stars,20.2,8,No,20.6
+2022,Detroit,Detroit Red Wings,5.4,6,No,5.7
+2022,Edmonton,Edmonton Oilers,7.8,0,No,7.8
+2022,Sunrise,Florida Panthers,18.9,4,No,19.1
+2022,Los Angeles,Los Angeles Kings,14.95,6,No,15.25
+2022,St. Paul,Minnesota Wild,6.76,6,No,7.06
+2022,Montreal,Montreal Canadiens,20.63,6,No,20.93
+2022,Nashville,Nashville Predators,27.69,10,No,28.19
+2022,Newark,New Jersey Devils,23.96,8,No,24.36
+2022,Elmont,New York Islanders,19.83,10,No,20.33
+2022,New York,New York Rangers,15.99,4,No,16.19
+2022,Ottawa,Ottawa Senators,25.56,10,No,26.06
+2022,Philadelphia,Philadelphia Flyers,19.04,4,No,19.24
+2022,Pittsburgh,Pittsburgh Penguins,18.58,10,No,19.08
+2022,San Jose,San Jose Sharks,13.07,8,No,13.47
+2022,Seattle,Seattle Kraken,19.01,8,No,19.41
+2022,St. Louis,St. Louis Blues,25.51,4,No,25.71
+2022,Tampa,Tampa Bay Lightning,18.14,23,No,19.29
+2022,Toronto,Toronto Maple Leafs,8.44,8,No,8.84
+2022,Vancouver,Vancouver Canucks,25.25,0,No,25.25
+2022,Las Vegas,Vegas Golden Knights,19.75,8,No,20.15
+2022,Washington,Washington Capitals,11.57,8,No,11.97
+2022,Winnipeg,Winnipeg Jets,19.3,10,No,19.8
+2023,Anaheim,Anaheim Ducks,12.51,6,No,12.81
+2023,Tempe,Arizona Coyotes,13.47,0,No,13.47
+2023,Boston,Boston Bruins,18.72,0,No,18.72
+2023,Buffalo,Buffalo Sabres,10.27,0,No,10.27
+2023,Calgary,Calgary Flames,15.06,0,No,15.06
+2023,Raleigh,Carolina Hurricanes,9.56,0,No,9.56
+2023,Chicago,Chicago Blackhawks,23.23,8,No,23.63
+2023,Denver,Colorado Avalanche,16.0,4,No,16.2
+2023,Columbus,Columbus Blue Jackets,7.19,4,No,7.39
+2023,Dallas,Dallas Stars,10.43,4,No,10.63
+2023,Detroit,Detroit Red Wings,21.5,0,No,21.5
+2023,Edmonton,Edmonton Oilers,11.2,6,No,11.5
+2023,Sunrise,Florida Panthers,6.42,21,No,7.47
+2023,Los Angeles,Los Angeles Kings,29.32,6,No,29.62
+2023,St. Paul,Minnesota Wild,21.75,8,No,22.15
+2023,Montreal,Montreal Canadiens,17.37,0,No,17.37
+2023,Nashville,Nashville Predators,18.08,8,No,18.48
+2023,Newark,New Jersey Devils,21.89,4,No,22.09
+2023,Elmont,New York Islanders,21.2,4,No,21.4
+2023,New York,New York Rangers,25.61,4,No,25.81
+2023,Ottawa,Ottawa Senators,26.49,10,No,26.99
+2023,Philadelphia,Philadelphia Flyers,11.24,0,No,11.24
+2023,Pittsburgh,Pittsburgh Penguins,25.37,10,No,25.87
+2023,San Jose,San Jose Sharks,27.03,0,No,27.03
+2023,Seattle,Seattle Kraken,12.65,0,No,12.65
+2023,St. Louis,St. Louis Blues,15.8,4,No,16.0
+2023,Tampa,Tampa Bay Lightning,27.03,10,No,27.53
+2023,Toronto,Toronto Maple Leafs,7.29,0,No,7.29
+2023,Vancouver,Vancouver Canucks,21.36,0,No,21.36
+2023,Las Vegas,Vegas Golden Knights,27.73,22,Yes,30.33
+2023,Washington,Washington Capitals,15.71,10,No,16.21
+2023,Winnipeg,Winnipeg Jets,15.61,4,No,15.81
+2024,Anaheim,Anaheim Ducks,9.53,4,No,9.73
+2024,Tempe,Arizona Coyotes,10.69,4,No,10.89
+2024,Boston,Boston Bruins,17.69,4,No,17.89
+2024,Buffalo,Buffalo Sabres,7.57,6,No,7.87
+2024,Calgary,Calgary Flames,20.47,0,No,20.47
+2024,Raleigh,Carolina Hurricanes,16.83,8,No,17.23
+2024,Chicago,Chicago Blackhawks,18.95,6,No,19.25
+2024,Denver,Colorado Avalanche,24.02,4,No,24.22
+2024,Columbus,Columbus Blue Jackets,9.97,4,No,10.17
+2024,Dallas,Dallas Stars,28.96,10,No,29.46
+2024,Detroit,Detroit Red Wings,6.46,6,No,6.76
+2024,Edmonton,Edmonton Oilers,29.94,25,No,31.19
+2024,Sunrise,Florida Panthers,29.1,26,Yes,31.9
+2024,Los Angeles,Los Angeles Kings,20.89,10,No,21.39
+2024,St. Paul,Minnesota Wild,28.4,0,No,28.4
+2024,Montreal,Montreal Canadiens,9.58,4,No,9.78
+2024,Nashville,Nashville Predators,17.66,10,No,18.16
+2024,Newark,New Jersey Devils,11.02,4,No,11.22
+2024,Elmont,New York Islanders,10.62,8,No,11.02
+2024,New York,New York Rangers,12.65,4,No,12.85
+2024,Ottawa,Ottawa Senators,19.52,4,No,19.72
+2024,Philadelphia,Philadelphia Flyers,29.67,0,No,29.67
+2024,Pittsburgh,Pittsburgh Penguins,29.89,10,No,30.39
+2024,San Jose,San Jose Sharks,23.28,0,No,23.28
+2024,Seattle,Seattle Kraken,27.78,8,No,28.18
+2024,St. Louis,St. Louis Blues,20.58,6,No,20.88
+2024,Tampa,Tampa Bay Lightning,29.44,0,No,29.44
+2024,Toronto,Toronto Maple Leafs,20.66,6,No,20.96
+2024,Vancouver,Vancouver Canucks,28.82,8,No,29.22
+2024,Las Vegas,Vegas Golden Knights,18.73,0,No,18.73
+2024,Washington,Washington Capitals,29.82,6,No,30.12
+2024,Winnipeg,Winnipeg Jets,10.95,6,No,11.25

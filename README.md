@@ -4,9 +4,11 @@
 
 This analysis reviewed the current 2024–2025 NHL season using predictive modeling tools and correlation analysis. The intent of this study was to forecast the Stanley Cup champion along with the estimated financial impacts of playoff performance. Logistic regression and Random Forest models were applied to historical team and season data to predict playoff success leading to a predicted 2025 Stanley Cup champion. Z-scores and a regression equation were also utilized to better understand patterns in wins, Elo ratings, and revenue impacts. Results highlight the significant economic value tied to playoff success, especially for the teams directly, which provides insight into the financial impact of professional hockey.
 
-This is a point in time review as of April 27, 2025. Statistics will change over time and will need to be reevaluated for continued accuracy. 
 
-# Cited for this research
+> 🗓️ *Note: This is a point-in-time review as of April 27, 2025. Statistics will evolve over time and should be reevaluated for future accuracy.*
+
+
+# 📚 Cited in This Research
 
 •	Brownlee, Jason. Logistic Regression for Machine Learning. Machine Learning Mastery, 2016, [https://machinelearningmastery.com/logistic-regression-for-machine-learning/]
 
@@ -20,4 +22,4 @@ This is a point in time review as of April 27, 2025. Statistics will change over
 
 # AI Statement
 
-I utilized ChatGPT/Claude to assist in creating the Python code to complete API requests, financial datasets, regression modeling, correlation determination, Z-score analysis, and Elo team ratings. 
+ChatGPT and Claude were used to assist in developing the Python code needed for API requests, compiling financial datasets, conducting regression modeling, determining correlations, performing Z-score analysis, and calculating Elo-based team ratings. 

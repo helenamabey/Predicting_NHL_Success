@@ -1,6 +1,8 @@
 # Predicting NHL Success and Financial Impact: A Statistical and Revenue-Based Analysis
 
-This analysis reviewed the current 2024–2025 NHL season using predictive modeling tools and correlation analysis. The intent of this study was to forecast the Stanley Cup champion along with the estimated financial impacts of playoff performance. Logistic regression and Random Forest models were applied to historical team and season data to predict playoff success leading to a predicted 2025 Stanley Cup champion. Z-scores and a regression equation were also utilized to better understand patterns in wins, Elo ratings, and revenue impacts. Results highlight the significant economic value tied to playoff success, especially for the teams directly, which provides insight into the financial impact of professional hockey
+This analysis reviewed the current 2024–2025 NHL season using predictive modeling tools and correlation analysis. The intent of this study was to forecast the Stanley Cup champion along with the estimated financial impacts of playoff performance. Logistic regression and Random Forest models were applied to historical team and season data to predict playoff success leading to a predicted 2025 Stanley Cup champion. Z-scores and a regression equation were also utilized to better understand patterns in wins, Elo ratings, and revenue impacts. Results highlight the significant economic value tied to playoff success, especially for the teams directly, which provides insight into the financial impact of professional hockey.
+
+This is a point in time review as of April 27, 2025. Statistics will change over time and will need to be reevaluated for continued accuracy. 
 
 # Cited for this research
 

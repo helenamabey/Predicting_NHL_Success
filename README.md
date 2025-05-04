@@ -4,11 +4,11 @@ This analysis reviewed the current 2024–2025 NHL season using predictive model
 
 # Cited for this research
 
-•	Brownlee, Jason. Logistic Regression for Machine Learning. Machine Learning Mastery, 2016. [https://machinelearningmastery.com/logistic-regression-for-machine-learning/]
-•	Silver, Nate. The Signal and the Noise: Why So Many Predictions Fail — But Some Don't. Penguin Press, 2012.
-•	Silver, Nate. How Our NHL Predictions Work. FiveThirtyEight, 2023. [https://fivethirtyeight.com/methodology/how-our-nhl-predictions-work/]
-•	Ryder, Alan. Elo Rating for the NHL. HockeyAnalytics.com, 2016. [https://hockeyanalytics.com/2016/07/elo-ratings-for-the-nhl/#:~:text=And%20that%20has%20led%20to,team%2Don%2Dteam%20games.]
-•	Zmalski, NHL API Reference. GitHub, 2024. [https://github.com/Zmalski/NHL-API-Reference]
+•	Brownlee, Jason. Logistic Regression for Machine Learning. Machine Learning Mastery, 2016, [https://machinelearningmastery.com/logistic-regression-for-machine-learning/]
+•	Silver, Nate. The Signal and the Noise: Why So Many Predictions Fail — But Some Don't, Penguin Press, 2012.
+•	Silver, Nate. How Our NHL Predictions Work. FiveThirtyEight, 2023, [https://fivethirtyeight.com/methodology/how-our-nhl-predictions-work/]
+•	Ryder, Alan. Elo Rating for the NHL. HockeyAnalytics.com, 2016, [https://hockeyanalytics.com/2016/07/elo-ratings-for-the-nhl/#:~:text=And%20that%20has%20led%20to,team%2Don%2Dteam%20games.]
+•	Zmalski, NHL API Reference. GitHub, 2024, [https://github.com/Zmalski/NHL-API-Reference]
 
 # AI Statement
 
